@@ -17,7 +17,13 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "ngx-inline-editor2": [
+        "dist/ngx-inline-editor2/ngx-inline-editor2",
+        "dist/ngx-inline-editor2"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
